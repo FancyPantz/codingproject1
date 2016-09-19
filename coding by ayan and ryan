@@ -1,0 +1,33 @@
+Ayan Bennett Ryan Martin
+<html>
+    <head>  
+    <title>SneakerHub</title>
+     <style>
+    h1{color:black}
+    ul{color:red}
+    body{background-color:red}
+    img{border-top:solid thick red}
+    img{border-bottom:solid thick black}
+    img{border-left:solid thick red}
+    img{border-right:solid thick black}
+    body{font-size:20px;}
+    </style>
+    </head>
+    <body>
+        <H1><b><i>Welcome to SneakerHub</i></b></H1>
+        <a href="http://www.superjordan11.com/air-jordan-11-xi-nrg-galaxy-white-glow-in-the-dark-72.aspx?tag=air%20jordan%2011%20galaxy%20glow"><img src="http://www.superjordan11.com/images/air-jordan-11-xi-nrg-galaxy-white-glow-in-the-dark-72-5.jpg"></a>
+        <ul>
+            <li>Cop the best in the west</li>
+            <img src="http://www.wearyoursport.com/wp-content/uploads/2015/08/asics-runners-2.jpg" width="200">
+            <li>We even got nikes.</li>
+            <img src="http://theshoegame.com/wp-content/uploads/2015/08/fake-roshe-yeezy-boost-350-3.png" width="200">
+            <li>We killing it with the best Jordans in the game.</li>
+            <img src="http://www.safestchina.com/products_image/wholesale-woman-jordan-high-heels-shoes-nike-jordan-adidas-shoes-clothes-bags-88890.jpg" width="200">
+        </ul>
+    </body>
+    
+    
+    
+    
+    
+        </html>
